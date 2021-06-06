@@ -1,0 +1,19 @@
+.body_backgorund {
+    background-image: url("https://st2.depositphotos.com/4216129/9341/v/600/depositphotos_93416638-stock-illustration-beautiful-artist-woman-painting-on.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color:pink; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+      border-width:10px;
+      background-color:lightblue; 
+      border-style:ridge;
+      margin-left: 3%;
+  }
+  
