@@ -1,19 +1,27 @@
-.body_backgorund {
-    background-image: url("https://st2.depositphotos.com/4216129/9341/v/600/depositphotos_93416638-stock-illustration-beautiful-artist-woman-painting-on.jpg");
-    background-position: center;
-    background-size: cover;
+.body_backgorund { 
+    background-image: url("https://i.postimg.cc/63cjmfvH/bg1.jpg"); 
+    background-position: center; 
+    background-size: cover; 
+  } 
+  body{ 
+    cursor: pointer; 
+  } 
+  h1 { 
+    color: red; 
+    font-size: 20px; 
+  } 
+  #myCanvas { 
+    border-width:10px; 
+    background-color: white; 
+    border-style:ridge; 
+  } 
+  button { 
+    background-color: #4CAF50; 
+    border: none; 
+    color: white; 
+    padding: 10px 42px; 
+    font-size: 16px; 
+  } 
+  input { 
+    margin-right: 20px; 
   }
-  h1
-  {
-      color:pink; 
-      font-size: 40px;
-  }
-  
-  #myCanvas
-  {
-      border-width:10px;
-      background-color:lightblue; 
-      border-style:ridge;
-      margin-left: 3%;
-  }
-  
